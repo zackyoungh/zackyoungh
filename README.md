@@ -30,5 +30,5 @@
 
 **Web, App, BigData**
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zackyoungh&show_icons=true&theme=dark" alt="zackyoungh" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zackyoungh&show_icons=true&theme=light" alt="zackyoungh" /> 
 </p>
